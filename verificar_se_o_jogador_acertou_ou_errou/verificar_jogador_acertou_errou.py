@@ -1,5 +1,5 @@
-from o_jogo.armazenar_e_verificar_tentativa_jogaodr.tentativas_do_jogador import *
-from o_jogo.enfeite_e_desenhos.enfeites_e_arte import *
+from armazenar_e_verificar_tentativa_jogador.tentativas_do_jogador import *
+from enfeite_e_desenhos.enfeites_e_arte import *
 
 def jogador_acertou_ou_errou(jogadores, nome_jogador):
     separador_de_linha = enfeite()

@@ -1,5 +1,5 @@
-from o_jogo.fechando_o_jogo.fechando_o_jogo import *
-from o_jogo.enfeite_e_desenhos.enfeites_e_arte import enfeite
+from fechando_o_jogo.fechando_o_jogo import *
+from enfeite_e_desenhos.enfeites_e_arte import enfeite
 
 
 def leia_int():
